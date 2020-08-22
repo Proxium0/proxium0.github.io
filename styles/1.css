@@ -1,0 +1,56 @@
+/*hopelijk krijg ik nog wat interessants te doen, want dit is echt pittig saai :/ */
+/*de kleuren die ik tot nu toe heb uitgekozen
+
+80CED7 blauw, maar op een mooie manier
+F9C22E geel,  deze vind ik heel erg mooi
+685762 bruingrijs, past goed bij blauw en geel
+BDB4BF licht grijs, mooi contrast voor bruingrijs
+*/
+
+body{
+text-align: left;
+font-size: 200%;
+font-family: Arial;
+line-height: 30%;
+color: #F9DC5C; /*naples Yellow*/
+/*background-image: url('../images/background.jpg');*/
+background-repeat: no-repeat;
+background-color: #2660A4;
+border: 0.5em #2660A4 groove;
+}
+
+
+h1{
+text-align: center;
+font-size: 350%;
+color: #80CED7;
+
+}
+
+h2{
+font-size: 250%;}
+}
+
+a{
+text-align: justify;
+font-family: Georgia;
+text-align: right;
+font-size: 200%;
+font-weight: normal;
+color: #69A197;
+}
+
+h5 {
+font-size: 100%;
+font-weight: bold;
+}
+
+h6 {
+font-style: italic;
+text-align: center;
+font-size:200%;
+}
+
+title {
+text-align: center;
+}
